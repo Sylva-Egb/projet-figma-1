@@ -3,7 +3,7 @@ import { Home } from "lucide-react";
 
 const Footer : React.FC = ((() => {
     return (
-        <footer className="flex justify-between p- bg-black">
+        <footer className="flex justify-between p-14 bg-black">
             <div className="flex flex-col text-white">
                 <div className="flex items-center mb-4">
                     <div className="mr-2 bg-orange-500 p-2 rounded-md">
