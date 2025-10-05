@@ -1,4 +1,3 @@
-import type React from "react";
 import Button from "./Button";
 import Link from "./Link";
 import { Home } from "lucide-react";
