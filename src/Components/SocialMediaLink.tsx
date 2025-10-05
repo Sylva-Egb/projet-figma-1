@@ -1,5 +1,4 @@
-import { ReactNode } from 'react';
-
+import { ReactNode } from "react";
 interface SocialMediaLinkProps {
     icon: ReactNode;
     href: string;
