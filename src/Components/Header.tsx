@@ -13,7 +13,7 @@ const Header : React.FC = ((() => {
             </div>
             <div>
                 <Link text="Home" href="#" className="mr-4" />
-                <Link text="My Collections" href="#" className="mr-4" />
+                <Link text="My Collections" href="#" className="mr-4 md:block hidden" />
                 <Link text="Blog" href="#" className="mr-4" />
             </div>
             <div>
