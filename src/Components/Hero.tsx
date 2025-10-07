@@ -25,7 +25,7 @@ function Hero() {
                 <img 
                     src={bgImage}
                     alt="Background" 
-                    className="md:max-w-full md:h-auto md:rounded-sm hidden"
+                    className="md:max-w-full md:h-auto md:rounded-sm hidden md:block"
                 />
             </div>
         </div>
