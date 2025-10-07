@@ -9,7 +9,7 @@ const Header : React.FC = ((() => {
                 <div className="mr-2 bg-orange-500 p-2 rounded-md">
                     <Home />
                 </div>
-                <h1 className="text-2xl font-bold">Antools.</h1>
+                <h1 className="hidden text-2xl font-bold lg:block">Antools.</h1>
             </div>
             <div>
                 <Link text="Home" href="#" className="mr-4" />
