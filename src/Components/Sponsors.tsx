@@ -3,7 +3,7 @@ import figma from "../assets/diamant.png"
 function Sponsors () {
     return (
         <div className="bg-black text-white py-20">
-            <div className="pt-6 max-w-full rounded-2xl overflow-hidden mx-24
+            <div className="pt-6 max-w-full rounded-2xl overflow-hidden md:mx-24 mx-12
             bg-white/5 backdrop-blur-md border border-white/10 
             transition-all duration-500 ease-in-out 
             bg-gradient-to-tr from-orange-500/20 to-transparent p-6 shadow-lg">
